@@ -32,7 +32,7 @@ Tôi là **Lê Hoàng Quân**, sinh viên chuyên ngành **Kỹ thuật Phần m
 
 ## 📊 Thống kê GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Quanle2k6]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Quanle2k6]&layout=compact&theme=tokyonight"/>
 </p>
 
