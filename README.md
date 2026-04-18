@@ -46,7 +46,7 @@ Tôi là **Lê Hoàng Quân**, sinh viên chuyên ngành **Kỹ thuật Phần m
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[Quanle2k6]&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" />
 </p>
 
 ---
