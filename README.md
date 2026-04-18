@@ -32,8 +32,8 @@ Tôi là **Lê Hoàng Quân**, sinh viên chuyên ngành **Kỹ thuật Phần m
 
 ## 📊 Thống kê GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Quanle2k6]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Quanle2k6]&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quanle2k6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quanle2k6&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@ Tôi là **Lê Hoàng Quân**, sinh viên chuyên ngành **Kỹ thuật Phần m
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[Quanle2k6]&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quanle2k6&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" />
 </p>
 
 ---
