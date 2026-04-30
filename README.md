@@ -1,8 +1,6 @@
 # 🚀 Chào mừng đến với không gian của Quân (Lê Hoàng Quân)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=200&section=header&text=Le%20Hoang%20Quan&fontSize=70&animation=fadeIn" />
-</p>
+
 
 ## 👨‍💻 Về tôi
 Tôi là **Lê Hoàng Quân**, sinh viên chuyên ngành **Kỹ thuật Phần mềm** tại **Trường Đại học Công nghệ Thông tin (UIT)**. Tôi có niềm đam mê đặc biệt với việc giải quyết các bài toán logic thông qua mã nguồn, từ việc xây dựng hệ thống quản lý dữ liệu chặt chẽ đến việc sáng tạo những trải nghiệm tương tác trong game.
